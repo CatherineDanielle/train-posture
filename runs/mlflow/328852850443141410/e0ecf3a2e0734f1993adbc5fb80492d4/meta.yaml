@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cdanielle/posture-detection/runs/mlflow/328852850443141410/e0ecf3a2e0734f1993adbc5fb80492d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '328852850443141410'
+lifecycle_stage: active
+run_id: e0ecf3a2e0734f1993adbc5fb80492d4
+run_name: posture_detector
+run_uuid: e0ecf3a2e0734f1993adbc5fb80492d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764952690238
+status: 1
+tags: []
+user_id: cdanielle
